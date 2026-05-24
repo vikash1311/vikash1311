@@ -1,0 +1,73 @@
+<svg viewBox="0 0 680 480" width="100%" xmlns="http://www.w3.org/2000/svg">
+<style>
+  .bg{fill:#0d1117}
+  .bar{fill:#161b22}
+  .sep{stroke:#30363d;stroke-width:1}
+  .border{fill:none;stroke:#30363d;stroke-width:1}
+  .m{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace;font-size:13px}
+  .w{fill:#e6edf3}
+  .g{fill:#8b949e}
+  .gr{fill:#3fb950}
+  .or{fill:#ffa657}
+  .rd{fill:#ff7b72}
+  .pu{fill:#d2a8ff}
+  .bl{fill:#79c0ff}
+  .cy{fill:#a5d6ff}
+  @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+  @keyframes show{from{opacity:0}to{opacity:1}}
+  .cur{fill:#3fb950;animation:blink 1s step-end infinite}
+  .a1{opacity:0;animation:show .01s .2s forwards}
+  .a2{opacity:0;animation:show .01s .9s forwards}
+  .a3{opacity:0;animation:show .01s 1.4s forwards}
+  .a4{opacity:0;animation:show .01s 1.9s forwards}
+  .a5{opacity:0;animation:show .01s 2.4s forwards}
+  .a6{opacity:0;animation:show .01s 3.1s forwards}
+  .a7{opacity:0;animation:show .01s 3.5s forwards}
+  .a8{opacity:0;animation:show .01s 3.9s forwards}
+  .a9{opacity:0;animation:show .01s 4.3s forwards}
+  .a10{opacity:0;animation:show .01s 4.7s forwards}
+  .a11{opacity:0;animation:show .01s 5.1s forwards}
+  .a12{opacity:0;animation:show .01s 5.5s forwards}
+  .a13{opacity:0;animation:show .01s 5.9s forwards}
+  .a14{opacity:0;animation:show .01s 6.3s forwards}
+  .a15{opacity:0;animation:show .01s 6.7s forwards}
+  .a16{opacity:0;animation:show .01s 7.1s forwards}
+</style>
+
+<rect class="bg" width="680" height="480" rx="12"/>
+<rect class="border" x=".5" y=".5" width="679" height="479" rx="12"/>
+<rect class="bar" width="680" height="42" rx="12"/>
+<rect class="bar" x="0" y="30" width="680" height="12"/>
+<line x1="0" y1="42" x2="680" y2="42" class="sep"/>
+<circle cx="26" cy="21" r="7" fill="#ff5f57"/>
+<circle cx="50" cy="21" r="7" fill="#febc2e"/>
+<circle cx="74" cy="21" r="7" fill="#28c840"/>
+<text x="340" y="25" text-anchor="middle" class="m g" font-size="12">vikash@gautam — production shell</text>
+
+<text x="24" y="74" class="m a1"><tspan class="gr">❯ </tspan><tspan class="w">./deploy-bugtracker.sh --env=prod</tspan></text>
+
+<text x="24" y="102" class="m a2"><tspan class="g">  ▸ </tspan><tspan class="gr">✓ </tspan><tspan class="g">Spring Boot 3.2 started on :8080</tspan></text>
+<text x="24" y="122" class="m a3"><tspan class="g">  ▸ </tspan><tspan class="gr">✓ </tspan><tspan class="g">MySQL · JWT · Spring Security ready</tspan></text>
+<text x="24" y="142" class="m a4"><tspan class="g">  ▸ </tspan><tspan class="gr">✓ </tspan><tspan class="g">OpenAI API · RBAC initialized</tspan></text>
+<text x="24" y="162" class="m a5"><tspan class="g">  ▸ </tspan><tspan class="gr">✓ </tspan><tspan class="gr">Deployed · 0 errors · 3 roles active</tspan></text>
+
+<line x1="24" y1="180" x2="656" y2="180" stroke="#21262d" stroke-width="1" class="a6"/>
+
+<text x="24" y="204" class="m a6"><tspan class="or">@RestController</tspan></text>
+<text x="24" y="224" class="m a7"><tspan class="or">@RequestMapping</tspan><tspan class="w">(</tspan><tspan class="cy">"/api/bugs"</tspan><tspan class="w">)</tspan></text>
+<text x="24" y="244" class="m a8"><tspan class="rd">public class </tspan><tspan class="or">BugController </tspan><tspan class="w">{</tspan></text>
+
+<text x="44" y="272" class="m a9"><tspan class="or">@PostMapping</tspan></text>
+<text x="44" y="292" class="m a10"><tspan class="rd">public </tspan><tspan class="pu">ResponseEntity</tspan><tspan class="w">&lt;</tspan><tspan class="or">BugDTO</tspan><tspan class="w">&gt; </tspan><tspan class="pu">create</tspan><tspan class="w">(</tspan><tspan class="or">BugRequest</tspan><tspan class="w"> req) {</tspan></text>
+<text x="64" y="312" class="m a11"><tspan class="rd">return </tspan><tspan class="w">aiService.</tspan><tspan class="pu">triage</tspan><tspan class="w">(req);</tspan><tspan class="g">  // severity + dedup ✓</tspan></text>
+<text x="44" y="332" class="m a12"><tspan class="w">}</tspan></text>
+<text x="24" y="352" class="m a13"><tspan class="w">}</tspan></text>
+
+<line x1="24" y1="370" x2="656" y2="370" stroke="#21262d" stroke-width="1" class="a14"/>
+
+<text x="24" y="394" class="m a14"><tspan class="gr">❯ </tspan><tspan class="w">git log --oneline -3</tspan></text>
+<text x="24" y="414" class="m a15"><tspan class="bl">a3f9c12 </tspan><tspan class="g">feat: AI triage + semantic dedup</tspan></text>
+<text x="24" y="434" class="m a16"><tspan class="bl">b72e841 </tspan><tspan class="g">fix: Spring Security CORS chain</tspan></text>
+
+<text x="24" y="462" class="m a16"><tspan class="gr">❯ </tspan><tspan class="cur">█</tspan></text>
+</svg>
