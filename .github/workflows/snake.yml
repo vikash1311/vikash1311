@@ -1,26 +1,28 @@
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# SNAKE CONTRIBUTION ANIMATION
-# Save this file to: .github/workflows/snake.yml
-# in your vikash1311/vikash1311 repo
+# SNAKE CONTRIBUTION ANIMATION — FIXED
+# Save to: .github/workflows/snake.yml
+# BEFORE running: go to repo Settings →
+# Actions → General → Workflow permissions
+# → select "Read and write permissions" → Save
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
-  workflow_dispatch:          # allows manual trigger from Actions tab
-  push:
-    branches:
-      - main
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     steps:
-      - name: Generate snake animation (dark theme)
+      - uses: actions/checkout@v3
+
+      - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: vikash1311
@@ -29,7 +31,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
