@@ -1,44 +1,35 @@
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# 3D CONTRIBUTION CALENDAR ANIMATION
-# Save this file to: .github/workflows/3d-contrib.yml
-# in your vikash1311/vikash1311 repo
+# 3D CONTRIBUTION CALENDAR — FIXED
+# Save to: .github/workflows/3d-contrib.yml
+# BEFORE running: go to repo Settings →
+# Actions → General → Workflow permissions
+# → select "Read and write permissions" → Save
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 name: Generate 3D Contribution Calendar
 
 on:
   schedule:
-    - cron: "0 18 * * *"    # runs daily at midnight IST (18:30 UTC)
+    - cron: "0 18 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate 3D Contribution Graph
-
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate 3D contribution graph (night rainbow theme)
+      - name: Generate 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: vikash1311
-        with:
-          SETTING_JSON: |
-            {
-              "githubUserName": "vikash1311",
-              "type": "svg",
-              "outputDir": "profile-3d-contrib",
-              "settingJson": {
-                "type": "NightRainbow"
-              }
-            }
+          MAX_REPOS: 10
 
-      - name: Commit and push 3D graph
+      - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
