@@ -7,10 +7,8 @@
 <!-- ══════════════════ HERO BANNER ══════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:00d4ff&height=200&section=header&text=Vikash%20Gautam&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI%20Builder&descSize=18&descAlignY=58&descColor=a8d8ff" />
 
-<!-- ══════════════════ TYPING ANIMATION ══════════════════ -->
-<a href="https://vikash-gautam.netlify.app" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=🚀+5%2B+Live+Apps+%7C+Govt+%26+Private+Clients;🚆+Railway+VMS+Across+4+Divisions+in+Production;🎓+40%2C000%2B+Users+on+Systems+I+Built;📜+Government+of+India+Copyright+Holder;⚡+12×+Performance+Gains+in+Prod+Systems;💼+Immediate+Joiner+—+Let%27s+Build+Something+Real" alt="Typing SVG" />
-</a>
+<!-- ══════════════════ TYPING ANIMATION (fixed - no <a> wrapper) ══════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=5%2B+Live+Apps+%7C+Govt+%26+Private+Clients;Railway+VMS+Across+4+Divisions+in+Production;40%2C000%2B+Users+on+Systems+I+Built;Government+of+India+Copyright+Holder;12x+Performance+Gains+in+Production+Systems;Immediate+Joiner+--+Let%27s+Build+Something+Real" alt="Typing SVG" />
 
 <br/>
 
@@ -37,21 +35,19 @@
 
 <br/><br/>
 
-<!-- ══════════════════ PROFILE VIEWS ══════════════════ -->
 <img src="https://komarev.com/ghpvc/?username=vikash1311&color=00d4ff&style=for-the-badge&label=Profile+Views" />
 &nbsp;
-<img src="https://img.shields.io/badge/Status-🟢%20Open%20to%20Work-%2300d4ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-%2300d4ff?style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/badge/Location-Nagpur%2C%20India%20🇮🇳-%237c6af7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-Nagpur%2C%20India-%237c6af7?style=for-the-badge" />
 
 </div>
 
 ---
 
 <!-- ══════════════════ ABOUT SECTION ══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a2540,100:0d1117&height=3&section=header" width="100%"/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp; Hey, I'm Vikash
+## 👋 &nbsp; Hey, I'm Vikash
 
 ```yaml
 ╔══════════════════════════════════════════════════════════════╗
@@ -60,15 +56,17 @@
 ║  education   :  B.Tech AI — GHRCEMN, Nagpur  |  CGPA: 8.46  ║
 ║  batch       :  2022–2026                                     ║
 ║  copyright   :  Govt. of India · Reg. L-151429/2024          ║
-║  status      :  🟢 Actively Seeking SDE-1 / Backend Roles    ║
+║  status      :  Actively Seeking SDE-1 / Backend Roles       ║
 ║  join        :  Immediate — Zero Notice Period                ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-> *I don't just write code — I ship **products**, optimize **systems**, and solve **real problems** for real users.*  
+> *I don't just write code — I ship **products**, optimize **systems**, and solve **real problems** for real users.*
 > My work runs in production **every day** — not in sandboxes, not in demos.
 
 <br/>
+
+---
 
 <!-- ══════════════════ IMPACT NUMBERS ══════════════════ -->
 ## 📊 &nbsp; Impact at a Glance
@@ -96,12 +94,12 @@
 </tr>
 <tr>
   <td align="center" width="160">
-    <img src="https://img.shields.io/badge/12×-Data%20Fetch%20Speed-%23ea4335?style=for-the-badge" /><br/>
+    <img src="https://img.shields.io/badge/12x-Data%20Fetch%20Speed-%23ea4335?style=for-the-badge" /><br/>
     <sub><b>Performance Improvement</b></sub>
   </td>
   <td align="center" width="160">
-    <img src="https://img.shields.io/badge/6–12×-Login%20Speed-%2300d4ff?style=for-the-badge" /><br/>
-    <sub><b>30s → under 5s Login</b></sub>
+    <img src="https://img.shields.io/badge/6--12x-Login%20Speed-%2300d4ff?style=for-the-badge" /><br/>
+    <sub><b>30s to under 5s Login</b></sub>
   </td>
   <td align="center" width="160">
     <img src="https://img.shields.io/badge/1-Govt.%20Copyright-%23ffb547?style=for-the-badge" /><br/>
@@ -109,7 +107,7 @@
   </td>
   <td align="center" width="160">
     <img src="https://img.shields.io/badge/3-Research%20Papers-%237c6af7?style=for-the-badge" /><br/>
-    <sub><b>Published Papers</b></sub>
+    <sub><b>AI Forgery · Enhancement · Mock Interview</b></sub>
   </td>
 </tr>
 </table>
@@ -125,30 +123,30 @@
 
 <div align="center">
 
-### &nbsp; Languages
+### Languages
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark" />
 
-### &nbsp; Backend
+### Backend
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" />
 &nbsp;
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
-### &nbsp; Frontend
+### Frontend
 <img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,html,css&theme=dark" />
 
-### &nbsp; Databases
+### Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase&theme=dark" />
 
-### &nbsp; AI / ML
+### AI / ML
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv,flask,python&theme=dark" />
 &nbsp;
 <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Groq%20AI-F55036?style=for-the-badge&logo=groq&logoColor=white" />
 
-### &nbsp; DevOps & Tools
+### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,github,postman,netlify&theme=dark" />
 &nbsp;
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
@@ -162,10 +160,8 @@
 <!-- ══════════════════ EXPERIENCE ══════════════════ -->
 ## 💼 &nbsp; Experience
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a2540,100:0a2540&height=2" width="100%"/>
-
-### 🏢 &nbsp; Full Stack Development Intern — [Chetan's Royals Webtech Pvt. Ltd.](https://chetansroyals.com), Nagpur
-#### `Dec 2025 – Present` &nbsp; | &nbsp; `🟢 Currently Active`
+### 🏢 &nbsp; Full Stack Development Intern — Chetan's Royals Webtech Pvt. Ltd., Nagpur
+#### `Dec 2025 – Present` &nbsp; | &nbsp; `Currently Active`
 
 <table>
 <tr>
@@ -207,7 +203,7 @@
 
 > **Stack:** `Java` · `Spring Boot` · `MySQL` · `React` · `JWT` · `Spring Security` · `OpenAI API`
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-bugtrackerai.netlify.app-00d4ff?style=for-the-badge)](https://bugtrackerai.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-bugtrackerai.netlify.app-00d4ff?style=for-the-badge)](https://bugtrackerai.netlify.app)
 &nbsp;
 [![API](https://img.shields.io/badge/API%20Server-bugtracker--ai.onrender.com-7c6af7?style=for-the-badge)](https://bugtracker-ai.onrender.com)
 &nbsp;
@@ -237,7 +233,7 @@ Why I'm proud of this:
 
 > **Stack:** `Node.js` · `React` · `OpenAI API` · `Groq AI` · `AST Parsing` · `acorn`
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-code--tester--ai.netlify.app-00d4ff?style=for-the-badge)](https://code-tester-ai.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-code--tester--ai.netlify.app-00d4ff?style=for-the-badge)](https://code-tester-ai.netlify.app)
 &nbsp;
 [![API](https://img.shields.io/badge/API%20Health%20Check-ai--code--review--kukl.onrender.com-7c6af7?style=for-the-badge)](https://ai-code-review-kukl.onrender.com/api/health)
 &nbsp;
@@ -262,14 +258,14 @@ Why I'm proud of this:
 
 <!-- PROJECT 3 -->
 <details open>
-<summary><b>🖼️ AI-Based Image Forgery Detection — Govt. Copyright</b></summary>
+<summary><b>🖼️ AI-Based Image Forgery Detection — Govt. Copyright + 3 Research Papers</b></summary>
 <br/>
 
 > **Stack:** `Python` · `TensorFlow` · `OpenCV` · `CNN` · `ELA` · `Flask`
 
-[![Copyright](https://img.shields.io/badge/📜%20Govt.%20Copyright-Reg.%20L--151429%2F2024-ffb547?style=for-the-badge)](https://drive.google.com/file/d/1sF_pvUooZJb4fP3Hn4KTeSx5IjWDkchz/view)
+[![Copyright](https://img.shields.io/badge/Govt.%20Copyright-Reg.%20L--151429%2F2024-ffb547?style=for-the-badge)](https://drive.google.com/file/d/1sF_pvUooZJb4fP3Hn4KTeSx5IjWDkchz/view)
 &nbsp;
-[![Paper](https://img.shields.io/badge/📄%20Research%20Paper-Published-00c7b7?style=for-the-badge)](https://github.com/vikash1311)
+[![Paper](https://img.shields.io/badge/3%20Research%20Papers-Published-00c7b7?style=for-the-badge)](https://github.com/vikash1311)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/vikash1311)
 
@@ -280,39 +276,61 @@ What it does:
   ✅ Heatmap visualization of tampered regions
   ✅ Government of India Copyright — Reg. No: L-151429/2024
 
+Published Research Papers (3 total):
+  📄 1. AI-Based Image Forgery Detection
+  📄 2. AI Image Enhancement
+  📄 3. AI Mock Interview & Analysis
+
 Why I'm proud of this:
-  → This became a published research paper AND a Government of India copyright.
-  → Not just a project — a real academic contribution to digital forensics.
+  → 3 published papers + a Government of India copyright = real academic impact.
+  → Not just a project — tangible contributions to AI research.
 ```
 </details>
-
 
 <br/>
 
 ---
 
-<!-- ══════════════════ GITHUB STATS ══════════════════ -->
-## 📈 &nbsp; GitHub Stats
+<!-- ══════════════════ GITHUB STATS — REPLACED WITH SUMMARY CARDS ══════════════════ -->
+## 📈 &nbsp; GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vikash1311&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c6af7&text_color=e2eaf5&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash1311&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=e2eaf5&langs_count=8" />
+<!-- Profile Summary Cards — shows commits/repos/languages breakdown (no wrong contribution count) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikash1311&theme=tokyonight" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikash1311&theme=tokyonight" height="180"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikash1311&theme=tokyonight" height="180"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vikash1311&theme=tokyonight&utcOffset=5.5" height="180"/>
 
 <br/><br/>
 
+<!-- Streak Stats — accurate, doesn't show wrong contribution total -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=vikash1311&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c6af7&fire=ffb547&currStreakLabel=00d4ff&sideLabels=e2eaf5&dates=a8d8ff&sideNums=ffffff" />
 
 <br/><br/>
 
-<!-- ACTIVITY GRAPH -->
+<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikash1311&theme=react-dark&bg_color=0d1117&color=00d4ff&line=7c6af7&point=ffb547&area=true&hide_border=true" width="100%"/>
 
 <br/><br/>
 
-<!-- TROPHIES -->
+<!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=vikash1311&theme=algolia&no-frame=true&row=1&column=7&margin-h=10" width="100%" />
+
+<br/><br/>
+
+<!-- ══ SNAKE ANIMATION (setup required — see instructions below) ══ -->
+<!-- After completing the GitHub Actions setup below, uncomment this line: -->
+<!-- <img src="https://raw.githubusercontent.com/vikash1311/vikash1311/output/github-contribution-grid-snake-dark.svg" width="100%"/> -->
+
+<!-- ══ 3D CONTRIBUTION CALENDAR (setup required — see instructions below) ══ -->
+<!-- After completing the GitHub Actions setup below, uncomment this line: -->
+<!-- <img src="https://raw.githubusercontent.com/vikash1311/vikash1311/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/> -->
 
 </div>
 
@@ -348,28 +366,29 @@ Why I'm proud of this:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=a8d8ff&center=true&vCenter=true&width=600&lines=If+my+work+impressed+you+—;Let%27s+build+something+great+together." />
+<!-- Fixed: em dash removed from URL, plain text used instead -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=a8d8ff&center=true&vCenter=true&width=600&lines=If+my+work+impressed+you...;Let%27s+build+something+great+together." alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="mailto:gautam7.ven@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Email%20Me-gautam7.ven%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email%20Me-gautam7.ven%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <br/><br/>
 <a href="https://linkedin.com/in/vikash2808" target="_blank">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-vikash2808-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-vikash2808-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <br/><br/>
 <a href="https://vikash-gautam.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-vikash--gautam.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-vikash--gautam.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
 <br/><br/>
 <a href="tel:+919307231784">
-  <img src="https://img.shields.io/badge/📱%20Call%20%2F%20WhatsApp-%2B91%209307231784-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Call%20or%20WhatsApp-%2B91%209307231784-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <br/><br/>
 <a href="https://drive.google.com/file/d/1sF_pvUooZJb4fP3Hn4KTeSx5IjWDkchz/view" target="_blank">
-  <img src="https://img.shields.io/badge/📄%20Resume-View%20%2F%20Download-FF6C37?style=for-the-badge&logo=googledrive&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resume-View%20or%20Download-FF6C37?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 
 </div>
@@ -377,6 +396,6 @@ Why I'm proud of this:
 <br/>
 
 <!-- ══════════════════ FOOTER WAVE ══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7c6af7,100:0d1117&height=120&section=footer&text=Open%20to%20Work%20%E2%80%94%20Immediate%20Joiner&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7c6af7,100:0d1117&height=120&section=footer&text=Open%20to%20Work%20--+Immediate%20Joiner&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 
 <!-- ████████████████ END OF README ████████████████ -->
