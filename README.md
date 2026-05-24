@@ -163,31 +163,10 @@
 ### 🏢 &nbsp; Full Stack Development Intern — Chetan's Royals Webtech Pvt. Ltd., Nagpur
 #### `Dec 2025 – Present` &nbsp; | &nbsp; `Currently Active`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🚆 Vendor Management System**
-- Deployed across **4 railway divisions** — Maharashtra & Chhattisgarh
-- Slashed login from **30–60s → under 5s** via lazy loading
-- Data fetch cut from **2+ min → under 10s** via scroll-based pagination (50 records/load)
-- Used by **government staff in active production** daily
-
-</td>
-<td width="50%" valign="top">
-
-**🎓 ID Card Generation System**
-- Serving **20+ institutes** across the region
-- Estimated **40,000+ students & employees** on the platform
-- Features: QR code generation, face detection for passport photos
-- Multi-role workflow: Admin → Org Admin → Employee/Student
-
-</td>
-</tr>
-</table>
-
-- 📦 Delivered **5+ production full-stack apps** — travel platforms, ID software, VMS, govt & private clients
-- 🤝 Maintained active client communication across **4+ concurrent projects** — requirements, demos, feedback
+- 🚆 Contributed to a **Vendor Management System** deployed across 4 railway divisions in Maharashtra & Chhattisgarh — optimized login **30–60s → under 5s** (lazy loading) and data fetch **2+ min → under 10s** (pagination)
+- 🎓 Contributed to an **ID Card Generation System** serving 20+ institutes and ~40,000+ students & employees — worked on QR code generation, face detection, and multi-role workflow
+- 📦 Part of a team delivering **5+ production full-stack applications** across government and private clients
+- 🤝 Active client communication across **4+ concurrent projects** — requirements, demos, and feedback
 
 <br/>
 
@@ -303,7 +282,7 @@ Why I'm proud of this:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikash1311&theme=tokyonight" height="180"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikash1311&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vikash1311&theme=tokyonight" height="180"/>
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vikash1311&theme=tokyonight&utcOffset=5.5" height="180"/>
 
