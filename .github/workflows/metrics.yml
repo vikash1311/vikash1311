@@ -1,22 +1,13 @@
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# METRICS — Stunning all-in-one profile infographic
-#
-# SETUP (one-time, 5 mins):
-# 1. Go to github.com/settings/tokens/new
-# 2. Name it: METRICS_TOKEN
-# 3. Scopes: check "public_repo" and "read:user"
-# 4. Generate → copy the token
-# 5. Go to your vikash1311 repo → Settings →
-#    Secrets and variables → Actions → New secret
-#    Name: METRICS_TOKEN  Value: (paste token)
-# 6. Run this workflow from Actions tab
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# METRICS — Fixed (removed habits + achievements
+# which need extra token scopes)
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 name: Generate Metrics
 
 on:
   schedule:
-    - cron: "0 16 * * *"   # daily at 9:30 PM IST
+    - cron: "0 16 * * *"
   workflow_dispatch:
 
 permissions:
@@ -27,8 +18,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      # ── Card 1: Languages + Habits ──
-      - name: Languages and coding habits
+      # ── Card 1: Languages only (no habits) ──
+      - name: Languages
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -42,15 +33,9 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_threshold: 0%
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_languages_limit: 8
           config_timezone: Asia/Kolkata
 
-      # ── Card 2: Isometric contribution calendar ──
+      # ── Card 2: Isometric calendar ──
       - name: Isometric calendar
         uses: lowlighter/metrics@latest
         with:
@@ -60,19 +45,4 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          config_timezone: Asia/Kolkata
-
-      # ── Card 3: GitHub Achievements ──
-      - name: Achievements
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: vikash1311
-          filename: metrics.achievements.svg
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
-          plugin_achievements_secrets: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_limit: 6
           config_timezone: Asia/Kolkata
