@@ -1,273 +1,382 @@
+<!-- ████████████████████████████████████████████████████ -->
+<!--              VIKASH GAUTAM — GITHUB README            -->
+<!-- ████████████████████████████████████████████████████ -->
+
 <div align="center">
 
-```
-██╗   ██╗██╗██╗  ██╗ █████╗ ███████╗██╗  ██╗
-██║   ██║██║██║ ██╔╝██╔══██╗██╔════╝██║  ██║
-██║   ██║██║█████╔╝ ███████║███████╗███████║
-╚██╗ ██╔╝██║██╔═██╗ ██╔══██║╚════██║██╔══██║
- ╚████╔╝ ██║██║  ██╗██║  ██║███████║██║  ██║
-  ╚═══╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-         G A U T A M  •  Full Stack + AI
-```
+<!-- ══════════════════ HERO BANNER ══════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:00d4ff&height=200&section=header&text=Vikash%20Gautam&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI%20Builder&descSize=18&descAlignY=58&descColor=a8d8ff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Backend+Engineer;AI+%2F+ML+Builder+%7C+Production+Deployer;5%2B+Live+Apps+%7C+Govt+%26+Private+Clients;Government+of+India+Copyright+Holder;Immediate+Joiner+%E2%80%94+Let%27s+Build+Together" alt="Typing SVG" />
+<!-- ══════════════════ TYPING ANIMATION ══════════════════ -->
+<a href="https://vikash-gautam.netlify.app" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=🚀+5%2B+Live+Apps+%7C+Govt+%26+Private+Clients;🚆+Railway+VMS+Across+4+Divisions+in+Production;🎓+40%2C000%2B+Users+on+Systems+I+Built;📜+Government+of+India+Copyright+Holder;⚡+12×+Performance+Gains+in+Prod+Systems;💼+Immediate+Joiner+—+Let%27s+Build+Something+Real" alt="Typing SVG" />
+</a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vikash2808-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikash2808)
-[![Portfolio](https://img.shields.io/badge/Portfolio-vikash--gautam.netlify.app-00d4ff?style=for-the-badge&logo=netlify&logoColor=white)](https://vikash-gautam.netlify.app)
-[![Email](https://img.shields.io/badge/Email-gautam7.ven@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautam7.ven@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-vikash1311-333?style=for-the-badge&logo=github)](https://github.com/vikash1311)
+<!-- ══════════════════ SOCIAL BADGES ══════════════════ -->
+<a href="https://linkedin.com/in/vikash2808" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-vikash2808-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://vikash-gautam.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-vikash--gautam.netlify.app-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:gautam7.ven@gmail.com">
+  <img src="https://img.shields.io/badge/Email-gautam7.ven%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="tel:+919307231784">
+  <img src="https://img.shields.io/badge/Call-%2B91%209307231784-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://drive.google.com/file/d/1sF_pvUooZJb4fP3Hn4KTeSx5IjWDkchz/view" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Download%20PDF-%23FF6C37?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
 
-<br/>
+<br/><br/>
 
-> **"I don't just write code — I ship products, optimize systems, and solve real problems for real users."**
+<!-- ══════════════════ PROFILE VIEWS ══════════════════ -->
+<img src="https://komarev.com/ghpvc/?username=vikash1311&color=00d4ff&style=for-the-badge&label=Profile+Views" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-🟢%20Open%20to%20Work-%2300d4ff?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Nagpur%2C%20India%20🇮🇳-%237c6af7?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧠 Who Am I
+<!-- ══════════════════ ABOUT SECTION ══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a2540,100:0d1117&height=3&section=header" width="100%"/>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp; Hey, I'm Vikash
 
 ```yaml
-name:       Vikash Gautam
-role:       Full Stack Developer · Backend Engineer · AI Builder
-location:   Nagpur, India 🇮🇳
-education:  B.Tech Artificial Intelligence — GHRCEMN (2022–2026) · CGPA 8.46
-status:     🟢 Actively Seeking Full-Time Roles · Immediate Joiner
-copyright:  Government of India Copyright Holder (Reg. No: L-151429/2024)
+╔══════════════════════════════════════════════════════════════╗
+║  name        :  Vikash Gautam                                ║
+║  role        :  Full Stack · Backend · AI/ML Builder         ║
+║  education   :  B.Tech AI — GHRCEMN, Nagpur  |  CGPA: 8.46  ║
+║  batch       :  2022–2026                                     ║
+║  copyright   :  Govt. of India · Reg. L-151429/2024          ║
+║  status      :  🟢 Actively Seeking SDE-1 / Backend Roles    ║
+║  join        :  Immediate — Zero Notice Period                ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-I build **production-grade applications** that are used by real organizations and real people — not just portfolio toys.
+> *I don't just write code — I ship **products**, optimize **systems**, and solve **real problems** for real users.*  
+> My work runs in production **every day** — not in sandboxes, not in demos.
 
-- 🏗️ **5+ live applications** delivered for government & private sector clients
-- 🚆 Built a **Vendor Management System** deployed across **4 railway divisions** in Maharashtra & Chhattisgarh
-- 🎓 **40,000+ students & employees** use an ID system I built across 20+ institutes
-- ⚡ Slashed system load times: **2 min → 10s** data fetch · **30s → 5s** login
-- 📜 **Govt. of India Copyright** for AI-based image forgery detection research
+<br/>
 
----
-
-## 🛠️ Tech Stack
+<!-- ══════════════════ IMPACT NUMBERS ══════════════════ -->
+## 📊 &nbsp; Impact at a Glance
 
 <div align="center">
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<table>
+<tr>
+  <td align="center" width="160">
+    <img src="https://img.shields.io/badge/5%2B-Production%20Apps-%2300d4ff?style=for-the-badge" /><br/>
+    <sub><b>Live Applications Delivered</b></sub>
+  </td>
+  <td align="center" width="160">
+    <img src="https://img.shields.io/badge/4-Railway%20Divisions-%237c6af7?style=for-the-badge" /><br/>
+    <sub><b>Govt. Railway Deployments</b></sub>
+  </td>
+  <td align="center" width="160">
+    <img src="https://img.shields.io/badge/40%2C000%2B-Users-%23ffb547?style=for-the-badge" /><br/>
+    <sub><b>Students & Employees Served</b></sub>
+  </td>
+  <td align="center" width="160">
+    <img src="https://img.shields.io/badge/20%2B-Institutes-%2300c7b7?style=for-the-badge" /><br/>
+    <sub><b>Organizations Using My Software</b></sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="160">
+    <img src="https://img.shields.io/badge/12×-Data%20Fetch%20Speed-%23ea4335?style=for-the-badge" /><br/>
+    <sub><b>Performance Improvement</b></sub>
+  </td>
+  <td align="center" width="160">
+    <img src="https://img.shields.io/badge/6–12×-Login%20Speed-%2300d4ff?style=for-the-badge" /><br/>
+    <sub><b>30s → under 5s Login</b></sub>
+  </td>
+  <td align="center" width="160">
+    <img src="https://img.shields.io/badge/1-Govt.%20Copyright-%23ffb547?style=for-the-badge" /><br/>
+    <sub><b>Government of India</b></sub>
+  </td>
+  <td align="center" width="160">
+    <img src="https://img.shields.io/badge/3-Research%20Papers-%237c6af7?style=for-the-badge" /><br/>
+    <sub><b>Published Papers</b></sub>
+  </td>
+</tr>
+</table>
 
 </div>
 
+<br/>
+
 ---
 
-## 🔥 Featured Projects
+<!-- ══════════════════ TECH STACK ══════════════════ -->
+## 🛠️ &nbsp; Tech Stack
+
+<div align="center">
+
+### &nbsp; Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark" />
+
+### &nbsp; Backend
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+### &nbsp; Frontend
+<img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,html,css&theme=dark" />
+
+### &nbsp; Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase&theme=dark" />
+
+### &nbsp; AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,flask,python&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Groq%20AI-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+
+### &nbsp; DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,netlify&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════════ EXPERIENCE ══════════════════ -->
+## 💼 &nbsp; Experience
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a2540,100:0a2540&height=2" width="100%"/>
+
+### 🏢 &nbsp; Full Stack Development Intern — [Chetan's Royals Webtech Pvt. Ltd.](https://chetansroyals.com), Nagpur
+#### `Dec 2025 – Present` &nbsp; | &nbsp; `🟢 Currently Active`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🐞 AI-Powered Bug Tracker
-**Multi-tenant SaaS · Java · Spring Boot · React**
-
-[![Live](https://img.shields.io/badge/🚀_Live-bugtrackerai.netlify.app-00d4ff?style=flat-square)](https://bugtrackerai.netlify.app)
-[![API](https://img.shields.io/badge/API-bugtracker--ai.onrender.com-7c6af7?style=flat-square)](https://bugtracker-ai.onrender.com)
-
-```
-✅ RBAC — Admin · Developer · Tester roles
-✅ AI triage — auto-severity + dupe detection
-✅ JWT + Spring Security auth
-✅ Controller–Service–Repository architecture
-✅ Full bug lifecycle + activity logs
-```
-
-**What I'm proud of:** Built a complete SaaS from scratch — multi-tenant, secured, AI-integrated, and deployed to production. This isn't a tutorial clone.
+**🚆 Vendor Management System**
+- Deployed across **4 railway divisions** — Maharashtra & Chhattisgarh
+- Slashed login from **30–60s → under 5s** via lazy loading
+- Data fetch cut from **2+ min → under 10s** via scroll-based pagination (50 records/load)
+- Used by **government staff in active production** daily
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 CodeLens — AI Code Review
-**Developer Tool · Node.js · React · Groq AI**
-
-[![Live](https://img.shields.io/badge/🚀_Live-code--tester--ai.netlify.app-00d4ff?style=flat-square)](https://code-tester-ai.netlify.app)
-[![API](https://img.shields.io/badge/API-Render-7c6af7?style=flat-square)](https://ai-code-review-kukl.onrender.com/api/health)
-
-```
-✅ AST parsing → real cyclomatic complexity
-✅ 10 language support (JS/TS/Python/Go/Rust...)
-✅ Bugs · Security · Complexity · Style tabs
-✅ GitHub URL mode — fetches & reviews live files
-✅ Dark/Light mode · Markdown export
-```
-
-**What I'm proud of:** Used acorn AST (not regex guesswork) for code structure extraction before prompting the LLM — producing smarter, context-aware reviews.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🖼️ Image Forgery Detection
-**AI Research · Python · TensorFlow · CNN · Flask**
-
-[![Copyright](https://img.shields.io/badge/📜_Govt._Copyright-L--151429%2F2024-ffb547?style=flat-square)](https://drive.google.com/file/d/1sF_pvUooZJb4fP3Hn4KTeSx5IjWDkchz/view?pli=1)
-
-```
-✅ CNN combining ELA + JPEG artifact detection
-✅ Real-time REST API with confidence scoring
-✅ Heatmap visualization of forged regions
-✅ Government of India Copyright registered
-✅ Published research paper
-```
-
-**What I'm proud of:** This went beyond a project — it became a published research paper and earned a Government of India copyright. Real academic contribution.
-
-</td>
-<td width="50%" valign="top">
-
-### 🚆 Vendor Management System
-**Enterprise · Full Stack · Railway Org (NDA)**
-
-```
-✅ Deployed across 4 railway divisions
-✅ Maharashtra + Chhattisgarh regions
-✅ Login: 30–60s → under 5s (lazy loading)
-✅ Data fetch: 2+ min → under 10s (pagination)
-✅ Active production use by govt. staff
-```
-
-**What I'm proud of:** Real enterprise software used by a major Indian public sector railway organization — not a demo, not a prototype. In production. Every day.
+**🎓 ID Card Generation System**
+- Serving **20+ institutes** across the region
+- Estimated **40,000+ students & employees** on the platform
+- Features: QR code generation, face detection for passport photos
+- Multi-role workflow: Admin → Org Admin → Employee/Student
 
 </td>
 </tr>
 </table>
 
----
-
-## 📈 Impact Numbers
-
-<div align="center">
-
-| Metric | Value |
-|---|---|
-| 🏗️ Production apps delivered | **5+** |
-| 🚆 Railway divisions served | **4** |
-| 🎓 Users on ID system | **40,000+** |
-| 🏫 Institutes using my software | **20+** |
-| ⚡ Login speed improvement | **6–12×** |
-| ⚡ Data fetch speed improvement | **12×+** |
-| 📜 Government copyright | **1** |
-| 📄 Published research papers | **3** |
-
-</div>
-
----
-
-## 💼 Experience
-
-```
-Full Stack Development Intern
-Chetan's Royals Webtech Pvt. Ltd., Nagpur          Dec 2025 – Present
-
-├── Vendor Management System
-│   └── Deployed across 4 railway divisions · 30s→5s login · 2min→10s data
-│
-├── ID Card Generation System
-│   └── 20+ institutes · 40,000+ users · QR codes · face detection · RBAC
-│
-├── 5+ production full-stack applications
-│   └── Travel platforms · ID software · VMS · Govt & private clients
-│
-└── Client communication across 4+ active projects
-    └── Requirements · demos · feedback iteration
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vikash1311&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c6af7&text_color=e2eaf5" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash1311&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=e2eaf5" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vikash1311&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c6af7&fire=ffb547&currStreakLabel=00d4ff" />
-
-</div>
-
----
-
-## 🎯 What I'm Looking For
-
-```
-Role:         Backend Engineer · Full Stack Developer · SDE-1
-Stack fit:    Java/Spring Boot  OR  Node.js/Express  OR  Both
-Join:         Immediate — zero notice period
-Location:     Open to relocation · Remote friendly
-Goal:         Join a team building products that matter at scale
-```
-
----
-
-## 📫 Let's Talk
-
-<div align="center">
-
-I'm actively looking for full-time roles. If you're building something interesting, let's connect.
+- 📦 Delivered **5+ production full-stack apps** — travel platforms, ID software, VMS, govt & private clients
+- 🤝 Maintained active client communication across **4+ concurrent projects** — requirements, demos, feedback
 
 <br/>
 
-[![Email](https://img.shields.io/badge/📧_gautam7.ven@gmail.com-EA4335?style=for-the-badge)](mailto:gautam7.ven@gmail.com)
+---
+
+<!-- ══════════════════ FEATURED PROJECTS ══════════════════ -->
+## 🔥 &nbsp; Featured Projects
+
+<!-- PROJECT 1 -->
+<details open>
+<summary><b>🐞 AI-Powered Bug Tracker — Multi-Tenant SaaS</b></summary>
+<br/>
+
+> **Stack:** `Java` · `Spring Boot` · `MySQL` · `React` · `JWT` · `Spring Security` · `OpenAI API`
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-bugtrackerai.netlify.app-00d4ff?style=for-the-badge)](https://bugtrackerai.netlify.app)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/vikash2808)
+[![API](https://img.shields.io/badge/API%20Server-bugtracker--ai.onrender.com-7c6af7?style=for-the-badge)](https://bugtracker-ai.onrender.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00C7B7?style=for-the-badge)](https://vikash-gautam.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/vikash1311)
+
+```
+What it does:
+  ✅ Multi-tenant bug tracking SaaS with RBAC — Admin · Developer · Tester
+  ✅ Full bug lifecycle management + activity logs + pagination + filtering
+  ✅ JWT + Spring Security — production-grade auth
+  ✅ AI triage: auto-suggests severity, detects duplicate bugs via semantic similarity
+  ✅ AI generates developer-ready reproduction steps automatically
+  ✅ Clean arch: Controller–Service–Repository + DTO · @Transactional service layer
+
+Why I'm proud of this:
+  → Built a complete SaaS from zero — multi-tenant, secured, AI-integrated, DEPLOYED.
+  → Not a tutorial clone. Not a demo. A real working product.
+```
+</details>
+
+<br/>
+
+<!-- PROJECT 2 -->
+<details open>
+<summary><b>🔍 CodeLens — AI Code Review Assistant</b></summary>
+<br/>
+
+> **Stack:** `Node.js` · `React` · `OpenAI API` · `Groq AI` · `AST Parsing` · `acorn`
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-code--tester--ai.netlify.app-00d4ff?style=for-the-badge)](https://code-tester-ai.netlify.app)
 &nbsp;
-[![Phone](https://img.shields.io/badge/📱_+91_9307231784-25D366?style=for-the-badge)](tel:+919307231784)
+[![API](https://img.shields.io/badge/API%20Health%20Check-ai--code--review--kukl.onrender.com-7c6af7?style=for-the-badge)](https://ai-code-review-kukl.onrender.com/api/health)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/vikash1311)
+
+```
+What it does:
+  ✅ Accepts code snippets OR GitHub file URLs directly
+  ✅ AST-based pre-processing (acorn) → extracts real cyclomatic complexity
+  ✅ Returns: Bug Detection · Security Vulnerabilities · Complexity · Style tabs
+  ✅ 10 language support: JS/TS/Python/Go/Rust and more
+  ✅ PEP 8 + SOLID principles aligned feedback
+  ✅ Dark/Light mode · Markdown export
+
+Why I'm proud of this:
+  → Used actual AST parsing (not regex guesswork) before prompting the LLM.
+  → Smarter, context-aware reviews that generic tools can't match.
+```
+</details>
+
+<br/>
+
+<!-- PROJECT 3 -->
+<details open>
+<summary><b>🖼️ AI-Based Image Forgery Detection — Govt. Copyright</b></summary>
+<br/>
+
+> **Stack:** `Python` · `TensorFlow` · `OpenCV` · `CNN` · `ELA` · `Flask`
+
+[![Copyright](https://img.shields.io/badge/📜%20Govt.%20Copyright-Reg.%20L--151429%2F2024-ffb547?style=for-the-badge)](https://drive.google.com/file/d/1sF_pvUooZJb4fP3Hn4KTeSx5IjWDkchz/view)
+&nbsp;
+[![Paper](https://img.shields.io/badge/📄%20Research%20Paper-Published-00c7b7?style=for-the-badge)](https://github.com/vikash1311)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/vikash1311)
+
+```
+What it does:
+  ✅ CNN combining ELA + JPEG artifact detection to find forged image regions
+  ✅ Real-time REST API with confidence scoring
+  ✅ Heatmap visualization of tampered regions
+  ✅ Government of India Copyright — Reg. No: L-151429/2024
+
+Why I'm proud of this:
+  → This became a published research paper AND a Government of India copyright.
+  → Not just a project — a real academic contribution to digital forensics.
+```
+</details>
+
+
+<br/>
+
+---
+
+<!-- ══════════════════ GITHUB STATS ══════════════════ -->
+## 📈 &nbsp; GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vikash1311&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c6af7&text_color=e2eaf5&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash1311&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=e2eaf5&langs_count=8" />
 
 <br/><br/>
 
-```
-If my work impressed you — let's build something great together.
-```
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vikash1311&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c6af7&fire=ffb547&currStreakLabel=00d4ff&sideLabels=e2eaf5&dates=a8d8ff&sideNums=ffffff" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=vikash1311&color=00d4ff&style=for-the-badge&label=Profile+Views)
+<br/><br/>
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikash1311&theme=react-dark&bg_color=0d1117&color=00d4ff&line=7c6af7&point=ffb547&area=true&hide_border=true" width="100%"/>
+
+<br/><br/>
+
+<!-- TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=vikash1311&theme=algolia&no-frame=true&row=1&column=7&margin-h=10" width="100%" />
 
 </div>
+
+<br/>
+
+---
+
+<!-- ══════════════════ WHAT I'M LOOKING FOR ══════════════════ -->
+## 🎯 &nbsp; What I'm Looking For
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│   Role       →   SDE-1  |  Backend Engineer  |  Full Stack Dev   │
+│   Stack      →   Java/Spring Boot  OR  Node.js  OR  Both         │
+│   Join       →   Immediate — Zero Notice Period                   │
+│   Location   →   Open to Relocation  |  Remote Friendly           │
+│   Goal       →   Build products that matter at scale              │
+│                                                                   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════════ CONNECT CTA ══════════════════ -->
+## 📫 &nbsp; Let's Connect
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=a8d8ff&center=true&vCenter=true&width=600&lines=If+my+work+impressed+you+—;Let%27s+build+something+great+together." />
+
+<br/><br/>
+
+<a href="mailto:gautam7.ven@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20Email%20Me-gautam7.ven%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<br/><br/>
+<a href="https://linkedin.com/in/vikash2808" target="_blank">
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-vikash2808-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/><br/>
+<a href="https://vikash-gautam.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-vikash--gautam.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+<br/><br/>
+<a href="tel:+919307231784">
+  <img src="https://img.shields.io/badge/📱%20Call%20%2F%20WhatsApp-%2B91%209307231784-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<br/><br/>
+<a href="https://drive.google.com/file/d/1sF_pvUooZJb4fP3Hn4KTeSx5IjWDkchz/view" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20Resume-View%20%2F%20Download-FF6C37?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════ FOOTER WAVE ══════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7c6af7,100:0d1117&height=120&section=footer&text=Open%20to%20Work%20%E2%80%94%20Immediate%20Joiner&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+
+<!-- ████████████████ END OF README ████████████████ -->
