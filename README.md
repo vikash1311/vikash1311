@@ -41,6 +41,16 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Location-Nagpur%2C%20India-%237c6af7?style=for-the-badge" />
 
+<br/><br/>
+
+<!-- ══ ANIMATED CODING GIF ══ -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="coding animation"/>
+
+<br/>
+
+<!-- ══ ANIMATED TECH BANNER ══ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2540,100:0d1117&height=2&section=header" width="100%"/>
+
 </div>
 
 ---
@@ -65,6 +75,8 @@
 > My work runs in production **every day** — not in sandboxes, not in demos.
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="animated divider"/>
 
 ---
 
@@ -270,46 +282,48 @@ Why I'm proud of this:
 
 ---
 
-<!-- ══════════════════ GITHUB STATS — REPLACED WITH SUMMARY CARDS ══════════════════ -->
+<!-- ══════════════════ GITHUB ACTIVITY ══════════════════ -->
 ## 📈 &nbsp; GitHub Activity
 
 <div align="center">
 
-<!-- Profile Summary Cards — shows commits/repos/languages breakdown (no wrong contribution count) -->
+<!-- ── SNAKE ANIMATION (auto-updates every 12h via GitHub Actions) ── -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikash1311/vikash1311/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vikash1311/vikash1311/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/vikash1311/vikash1311/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+<br/>
+
+<!-- ── 3D CONTRIBUTION CALENDAR (auto-updates daily) ── -->
+<img src="https://raw.githubusercontent.com/vikash1311/vikash1311/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar"/>
+
+<br/><br/>
+
+<!-- ── PROFILE SUMMARY — commits/repos/languages breakdown ── -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikash1311&theme=tokyonight" width="100%"/>
 
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikash1311&theme=tokyonight" height="180"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vikash1311&theme=tokyonight" height="180"/>
-&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vikash1311&theme=tokyonight&utcOffset=5.5" height="180"/>
 
 <br/><br/>
 
-<!-- Streak Stats — accurate, doesn't show wrong contribution total -->
+<!-- ── STREAK STATS ── -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=vikash1311&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c6af7&fire=ffb547&currStreakLabel=00d4ff&sideLabels=e2eaf5&dates=a8d8ff&sideNums=ffffff" />
 
 <br/><br/>
 
-<!-- Activity Graph -->
+<!-- ── ACTIVITY GRAPH ── -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikash1311&theme=react-dark&bg_color=0d1117&color=00d4ff&line=7c6af7&point=ffb547&area=true&hide_border=true" width="100%"/>
 
 <br/><br/>
 
-<!-- Trophies -->
+<!-- ── TROPHIES ── -->
 <img src="https://github-profile-trophy.vercel.app/?username=vikash1311&theme=algolia&no-frame=true&row=1&column=7&margin-h=10" width="100%" />
-
-<br/><br/>
-
-<!-- ══ SNAKE ANIMATION (setup required — see instructions below) ══ -->
-<!-- After completing the GitHub Actions setup below, uncomment this line: -->
-<!-- <img src="https://raw.githubusercontent.com/vikash1311/vikash1311/output/github-contribution-grid-snake-dark.svg" width="100%"/> -->
-
-<!-- ══ 3D CONTRIBUTION CALENDAR (setup required — see instructions below) ══ -->
-<!-- After completing the GitHub Actions setup below, uncomment this line: -->
-<!-- <img src="https://raw.githubusercontent.com/vikash1311/vikash1311/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/> -->
 
 </div>
 
