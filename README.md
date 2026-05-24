@@ -156,7 +156,7 @@
 <br/><br/>
 
 <!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vikash1311&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c6af7&fire=ffb547&currStreakLabel=00d4ff&sideLabels=e2eaf5&dates=a8d8ff&sideNums=ffffff"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=vikash1311&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c6af7&fire=ffb547&currStreakLabel=00d4ff&sideLabels=e2eaf5&dates=a8d8ff&sideNums=ffffff"/> -->
 
 <br/><br/>
 
