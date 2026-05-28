@@ -27,7 +27,7 @@
 
 Not tutorial apps. Not sandboxes. Real systems — running right now, serving real people.
 
-- 🚆 **Railway Vendor System** — cut login from 30–60s → under 5s, data fetch from 2 min → 10s. Sole maintainer across **4 Indian Railways divisions** — earned full ownership by outperforming senior developers.
+- 🚆 **Railway Vendor System** — cut login from 30–60s → under 5s, data fetch from 2 min → 10s. Joined as bug fixer; consistently resolved issues faster than the existing team — manager handed full ownership across 4 Indian Railways divisions.
 - 🍽️ **QR-Based Train Pantry Ordering System** — unique QR per train, live vendor menu updated in real-time, 3-role system (User · Vendor · Admin); co-built with teammate.
 - 🗺️ **GeoTech Garbage & Material Management System** — GPS-tagged photo reporting, full 6-role lifecycle: report → assign → clean → verify → approve → notify; co-built with teammate.
 - 🎓 **ID Card & Face Verification System** — multi-role workflow with QR codes and face detection, used by **10,000+ students and staff** at 20+ institutes. Built entire backend solo.
