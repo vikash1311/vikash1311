@@ -1,0 +1,25 @@
+<svg width="100%" viewBox="0 0 680 60" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>GitHub profile footer banner</title>
+<desc>Dark footer with horizontal circuit accent lines</desc>
+<style>
+.bg{fill:#0d1117}.grid-line{stroke:#1a2332}.accent{stroke:#00c6ff}.accent-dot{fill:#00c6ff}.accent2{stroke:#7c6af7}.accent2-dot{fill:#7c6af7}.footer-text{fill:#4a7a8a}
+</style>
+<rect width="680" height="60" class="bg"/>
+<line x1="0" y1="30" x2="680" y2="30" class="grid-line" stroke-width="0.5"/>
+<line x1="80" y1="0" x2="80" y2="60" class="grid-line" stroke-width="0.5"/>
+<line x1="160" y1="0" x2="160" y2="60" class="grid-line" stroke-width="0.5"/>
+<line x1="480" y1="0" x2="480" y2="60" class="grid-line" stroke-width="0.5"/>
+<line x1="560" y1="0" x2="560" y2="60" class="grid-line" stroke-width="0.5"/>
+<line x1="640" y1="0" x2="640" y2="60" class="grid-line" stroke-width="0.5"/>
+<line x1="0" y1="30" x2="120" y2="30" class="accent" stroke-width="1.5" fill="none"/>
+<circle cx="0" cy="30" r="4" class="accent-dot"/>
+<circle cx="40" cy="30" r="2.5" class="accent-dot"/>
+<circle cx="80" cy="30" r="2.5" class="accent-dot"/>
+<circle cx="120" cy="30" r="4" class="accent-dot"/>
+<line x1="560" y1="30" x2="680" y2="30" class="accent2" stroke-width="1.5" fill="none"/>
+<circle cx="560" cy="30" r="4" class="accent2-dot"/>
+<circle cx="600" cy="30" r="2.5" class="accent2-dot"/>
+<circle cx="640" cy="30" r="2.5" class="accent2-dot"/>
+<circle cx="680" cy="30" r="4" class="accent2-dot"/>
+<text x="340" y="34" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="10" font-weight="400" class="footer-text" text-anchor="middle" letter-spacing="2">open to work — let's build something real</text>
+</svg>
