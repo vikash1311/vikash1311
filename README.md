@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,100:00c6ff&height=220&section=header&text=Vikash%20Gautam&fontSize=64&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Full%20Stack%20%E2%80%A2%20Backend%20%E2%80%A2%20AI%2FML%20Engineer&descSize=18&descAlignY=63&descColor=7ec8e3" />
+<img width="100%" src="https://raw.githubusercontent.com/vikash1311/vikash1311/main/banner.svg" />
 
 <br/>
 
@@ -196,4 +196,4 @@ If you need someone who ships real software and takes ownership, I'd love to con
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:7c6af7,100:0d1117&height=100&section=footer&text=Open%20to%20Work%20—%20Immediate%20Joiner&fontSize=15&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://raw.githubusercontent.com/vikash1311/vikash1311/main/footer.svg" />
