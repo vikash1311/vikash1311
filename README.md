@@ -2,8 +2,8 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/vikash1311/vikash1311/main/banner.svg" />
 
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=900&color=00C6FF&center=true&vCenter=true&width=820&lines=I+build+production+systems+that+scale+—+not+tutorials%2C+not+demos.;10%2C000%2B+daily+users+on+systems+I+built.;Railway+backend+12%C3%97+faster+—+deployed+across+4+divisions.;Government+of+India+Copyright+holder+·+3+published+papers.;SDE-1+%7C+Backend+Eng+%7C+Full+Stack+—+Immediate+Joiner." />
+<!-- <br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=900&color=00C6FF&center=true&vCenter=true&width=820&lines=I+build+production+systems+that+scale+—+not+tutorials%2C+not+demos.;10%2C000%2B+daily+users+on+systems+I+built.;Railway+backend+12%C3%97+faster+—+deployed+across+4+divisions.;Government+of+India+Copyright+holder+·+3+published+papers.;SDE-1+%7C+Backend+Eng+%7C+Full+Stack+—+Immediate+Joiner." /> -->
 
 <br/><br/>
 
