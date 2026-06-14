@@ -2,9 +2,6 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/vikash1311/vikash1311/main/banner.svg" />
 
-<!-- <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=900&color=00C6FF&center=true&vCenter=true&width=820&lines=I+build+production+systems+that+scale+—+not+tutorials%2C+not+demos.;10%2C000%2B+daily+users+on+systems+I+built.;Railway+backend+12%C3%97+faster+—+deployed+across+4+divisions.;Government+of+India+Copyright+holder+·+3+published+papers.;SDE-1+%7C+Backend+Eng+%7C+Full+Stack+—+Immediate+Joiner." /> -->
-
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vikash2808-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikash2808)
@@ -24,13 +21,11 @@
 
 ## I build production systems that scale.
 
-Not tutorial apps. Not sandboxes. Real systems - running right now, serving real people.
+Not tutorial apps. Not sandboxes. Real systems — running right now, serving real people.
 
-- 🚆 **Railway Vendor System** - cut login from 30–60s → under 5s, data fetch from 2 min → 10s. Joined as bug fixer; consistently resolved issues faster than the existing team - manager handed full ownership across 4 Indian Railways divisions.
-- 🍽️ **QR-Based Train Pantry Ordering System** - unique QR per train, live vendor menu updated in real-time, 3-role system (User · Vendor · Admin); co-built with teammate.
-- 🗺️ **GeoTech Garbage & Material Management System** - GPS-tagged photo reporting, full 6-role lifecycle: report → assign → clean → verify → approve → notify; co-built with teammate.
-- 🎓 **ID Card & Face Verification System** - multi-role workflow with QR codes and face detection, used by **10,000+ students and staff** at 20+ institutes. Built entire backend solo.
-- 🏛️ **Government of India Copyright holder** - Reg. L-151429/2024 for an AI image forgery detection system built with CNN + ELA.
+- 🚆 **Production Vendor Platform** — cut login 12× (60s → 5s) and data fetch 12× (2min → 10s). Joined as bug fixer; resolved issues faster than the existing team — manager handed full ownership across 4 railway divisions.
+- 🎓 **Identity Verification System** — QR generation, face detection, multi-role workflow; serving **10,000+ users across 20+ institutes**. Built entire backend solo.
+- 🏛️ **Government of India Copyright holder** — Reg. L-151429/2024 for an AI image forgery detection system built with CNN + ELA.
 - 📄 **3 published research papers** in Computer Vision and NLP.
 
 > I move fast, write clean code, and take full ownership of what I build.
@@ -41,38 +36,25 @@ Not tutorial apps. Not sandboxes. Real systems - running right now, serving real
 
 <div align="center">
 
-| 10,000+ | 12× | 8 Live | 4 | 3 | 1 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Users on systems I built | Performance gain on railway backend | Production apps delivered | Railway divisions deployed | Published research papers | Govt. of India copyright |
+| 10,000+ | 12× | 8 Live | 7 | 4 | 3 | 1 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Users on systems I built | Performance gain on production backend | Production apps delivered | OSS contributors led | Railway divisions deployed | Published research papers | Govt. of India copyright |
 
 </div>
 
 ---
 
-## Experience
+## 🚧 Currently Building
 
-### Full Stack Developer Intern · Chetan's Royals Webtech Pvt. Ltd., Nagpur
-`Dec 2025 – Present`
+### CareerOS — AI Career Operating System &nbsp; [![Org](https://img.shields.io/badge/GitHub-Careers--Os-21262d?style=flat-square&logo=github)](https://github.com/Careers-Os) [![Status](https://img.shields.io/badge/Status-Phase%201%20Active-00c6ff?style=flat-square)]()
 
-**Railway Vendor Management System** - 4 Indian Railways Divisions, Maharashtra & Chhattisgarh
-- Joined as bug fixer; resolved critical issues faster than senior developers - manager handed full project ownership
-- Now sole maintainer across all 4 divisions with daily commits to private repository
-- Optimized login **30–60s → under 5s**, data fetch **2 min → under 10s** (12× improvement each)
+Open-source AI platform consolidating resume analysis, mock interviews, job tracking, and skill gap detection — **7 active contributors, Phase 1 backend + AI layer complete.**
 
-**QR-Based Train Pantry Ordering System**
-- Co-built (50-50) with 1 teammate via Git + Google Meet
-- Designed full UI; each train has a unique QR opening a live vendor menu with real-time updates
-- 3-role system: User orders → Vendor receives and delivers → Admin monitors sales, ratings, complaints
+- **Backend** — 6 Spring Boot microservices: API Gateway · User · Resume · Analysis · Interview · Job Tracker; RabbitMQ async AI queue, Redis caching, Apache Tika resume parsing
+- **AI Layer** — 5 LangGraph stateful agents: ResumeAnalysisGraph · RecruiterSimGraph · InterviewGraph · SkillGapGraph · RoadmapGraph; exposed via FastAPI with Qdrant vector search
+- **Leading** — authored full PRD, raised 20+ structured GitHub issues, reviewing PRs, coordinating contributors across frontend, backend, and AI modules
 
-**GeoTech Garbage & Material Management System**
-- Co-built (50-50) with 1 teammate via Git + Google Meet
-- GPS-tagged photo reporting with auto-captured coordinates; full 6-role lifecycle: report → assign → clean → verify → approve → notify
-- Includes Material Storage module for railway scrap inventory with live weight tracking
-
-**Institute ID Card & QR Verification System** — 20+ Institutes, 10,000+ Users
-- 2-person team via Git + Google Meet; solely built entire backend
-- Multi-role workflow: Admin → Org Admin → Employee/Student with face detection and QR-based verification
-- Maintained direct client communication throughout delivery
+`Next.js 14` · `Spring Boot 3.2` · `LangGraph` · `FastAPI` · `Qdrant` · `PostgreSQL` · `Redis` · `RabbitMQ` · `Docker`
 
 ---
 
@@ -83,10 +65,10 @@ Not tutorial apps. Not sandboxes. Real systems - running right now, serving real
 Multi-tenant SaaS bug tracking with AI-powered triage — production-grade from the ground up.
 
 - **RBAC** with Admin, Developer, and Tester roles — scoped data access at every layer
-- **AI triage** - auto-assigns severity, deduplicates issues, generates reproduction steps via OpenAI
-- **Auth** - JWT + BCrypt + Spring Security, containerized with Docker
-- **Architecture** - Controller – Service – Repository + DTO, @Transactional on service layer
-- `Java 17` · `Spring Boot 3` · `Spring Security 7` · `MySQL 8` · `React` · `Redux` · `OpenAI API` · `Docker`
+- **AI triage** — auto-assigns severity, detects semantic duplicates, generates reproduction steps via Groq LLaMA 3.3 70B
+- **Auth** — JWT + BCrypt + Spring Security 7, containerized with Docker
+- **Architecture** — Controller–Service–Repository + DTO, @Transactional on service layer
+- `Java 21` · `Spring Boot 3` · `Spring Security 7` · `MySQL 8` · `React` · `Redux` · `Groq API (LLaMA 3.3 70B)` · `Docker`
 
 ---
 
@@ -94,21 +76,21 @@ Multi-tenant SaaS bug tracking with AI-powered triage — production-grade from 
 
 Real static analysis — not just LLM opinions.
 
-- **AST parsing** via `acorn` - structural analysis, not surface-level feedback
+- **AST parsing** via `acorn` — structural analysis, not surface-level feedback
 - **Cyclomatic complexity scoring** + maintainability metrics across 10 languages
-- **GitHub URL mode** - paste any public file URL and review it directly
-- **Chose Groq over OpenAI** - 14,400 free req/day, same SDK, zero cost; stateless backend
+- **GitHub URL mode** — paste any public file URL and review it directly
+- **Chose Groq over OpenAI** — 14,400 free req/day, same SDK, zero cost; stateless backend
 - `Node.js` · `Express` · `React 18` · `Vite` · `Groq API (llama-3.3-70b)` · `acorn AST`
 
 ---
 
 ### 🖼️ Image Forgery Detection &nbsp; [![Copyright](https://img.shields.io/badge/Govt.%20of%20India%20Copyright-L--151429%2F2024-ffb547?style=flat-square)](https://drive.google.com/file/d/1sF_pvUooZJb4fP3Hn4KTeSx5IjWDkchz/view) [![Code](https://img.shields.io/badge/Code-21262d?style=flat-square&logo=github)](https://github.com/vikash1311/Image-Forgery-Detection)
 
-AI system for detecting image manipulation - backed by a government copyright and 3 research papers.
+AI system for detecting image manipulation — backed by a government copyright and 3 research papers.
 
 - **CNN + ELA (Error Level Analysis)** to detect JPEG artifact manipulation with high accuracy
 - REST API with **heatmap overlay** showing exactly where tampering occurred
-- Foundation for **3 published papers** in AI/ML conferences
+- Model not publicly hosted due to size — **demo available on request**
 - `Python` · `TensorFlow` · `OpenCV` · `Flask` · `CNN` · `ELA`
 
 ---
@@ -117,7 +99,7 @@ AI system for detecting image manipulation - backed by a government copyright an
 
 | # | Title | Domain |
 |:---|:---|:---|
-| 1 | AI-Based Image Forgery Detection using CNN + ELA - *Govt. Copyright Registered* | Computer Vision · Security |
+| 1 | AI-Based Image Forgery Detection using CNN + ELA — *Govt. Copyright Registered* | Computer Vision · Security |
 | 2 | AI Image Enhancement using Deep Learning | Computer Vision |
 | 3 | AI Mock Interview & NLP-based Feedback Analysis | NLP · EdTech |
 
@@ -137,18 +119,19 @@ AI system for detecting image manipulation - backed by a government copyright an
 
 **Frontend**
 &nbsp;
-<img src="https://skillicons.dev/icons?i=react,typescript,vite,redux,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,typescript,vite,redux,tailwind,nextjs&theme=dark" />
 
 **Databases**
 &nbsp;
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase&theme=dark" />
 
 **AI / ML**
 &nbsp;
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv,flask,python&theme=dark" />
 &nbsp;
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Groq AI](https://img.shields.io/badge/Groq%20AI-F55036?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
 
 **DevOps**
 &nbsp;
@@ -180,7 +163,7 @@ AI system for detecting image manipulation - backed by a government copyright an
 
 ## Let's talk.
 
-I'm looking for **SDE-1 / Backend / Full Stack** roles. Immediate joiner - open to relocation and remote.
+I'm looking for **SDE-1 / Backend / Full Stack** roles. Immediate joiner — open to relocation and remote.
 
 If you need someone who ships real software and takes ownership, I'd love to connect.
 
